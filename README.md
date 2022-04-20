@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wendgoundi&label=Profile%20views&color=0e75b6&style=flat" alt="wendgoundi" /> </p>
 
-- 🔭 I’m currently working on many projects related and not limitted to **IMAGE CLASSIFICATION, IMAGE-TO-IMAGE TRANSLATION, OBJECT DETECTION/RECOGNITION, ACTION RECOGNITION...**
+- 🔭 I’m currently working on many projects related and not limitted to **IMAGE CLASSIFICATION, IMAGE-TO-IMAGE TRANSLATION, OBJECT DETECTION/RECOGNITION, ACTION RECOGNITION, Optical Character Recognition.**
 
 - 💬 Ask me about **MACHINE LEARNING / DEEP LERANING / COMPUTER VISION**
 
