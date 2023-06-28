@@ -1,11 +1,11 @@
-<img align="right" alt="Coding" width="400" src="https://www.shutterstock.com/image-vector/artificial-intelligence-banner-icons-set-260nw-1299382426.jpg" />
+<!-- <img align="right" alt="Coding" width="400" src="https://www.shutterstock.com/image-vector/artificial-intelligence-banner-icons-set-260nw-1299382426.jpg" /> -->
 <h1 align="center">Hi 👋, I'm SAVADOGO WENDGOUNDI ABDOUL RASMANE</h1>
 <h3 align="center">A PASSIONATE ARTIFICIAL INTELLIGENCE ENGINEER</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/taldatech/ee046746-computer-vision/master/assets/tut_track_anim.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wendgoundi&label=Profile%20views&color=0e75b6&style=flat" alt="wendgoundi" /> </p>
 
-- 🔭 I’m currently working on many projects related and not limitted to **IMAGE CLASSIFICATION, IMAGE-TO-IMAGE TRANSLATION, OBJECT DETECTION/RECOGNITION, ACTION RECOGNITION, Optical Character Recognition.**
+- 🔭 I’m currently working on many projects related and not limitted to **Defect Inspection, IMAGE CLASSIFICATION, IMAGE-TO-IMAGE TRANSLATION, OBJECT DETECTION/RECOGNITION, ACTION RECOGNITION, Optical Character Recognition, Document Understanding.**
 
 - 💬 Ask me about **MACHINE LEARNING / DEEP LERANING / COMPUTER VISION**
 
